@@ -91,3 +91,9 @@ https://pastes.io/2PO4xXGF
 
 student cu dictionar observer cu memento-kt
 https://pastes.io/kEukXvsL
+
+bancuri-py
+https://pastes.io/CVm2lq9I
+
+modelul strategie cu corutine cu erori warrns-kt
+https://pastes.io/rVgmvhyU
