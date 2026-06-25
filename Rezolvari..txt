@@ -31,4 +31,14 @@ https://pastebin.com/1ZtQ5yvS '
 functori cu transformare-py
 https://pastebin.com/0cTV3q1v
 
+generica cu extensie de prim-kt
+https://pastebin.com/04Y2DJnr
+
+threadpool cu cmd=py
+https://pastebin.com/FA1f4c5R
+
+arbore binar si functor-kt
+https://pastebin.com/W3J4sb6L
+
+
 
