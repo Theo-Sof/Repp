@@ -40,5 +40,16 @@ https://pastebin.com/FA1f4c5R
 arbore binar si functor-kt
 https://pastebin.com/W3J4sb6L
 
+lock rlock sem-py
+https://pastebin.com/1HKLhSR8
+
+proces cu var partiala observer-py
+https://pastebin.com/myJb3fyu
+
+automat cu 3 stari cu prim-py
+https://pastebin.com/R2yJ1CJN
+
+automat 3 stari cmd, stat, par,impar-py
+https://pastebin.com/itvaUYSU
 
 
