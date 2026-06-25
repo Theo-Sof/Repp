@@ -52,4 +52,8 @@ https://pastebin.com/R2yJ1CJN
 automat 3 stari cmd, stat, par,impar-py
 https://pastebin.com/itvaUYSU
 
+hashmap cu ops-kt
+https://pastebin.com/0cHDuS7d
 
+chain dublu-py
+https://pastebin.com/g71AUYXr
