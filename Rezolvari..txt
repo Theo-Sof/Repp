@@ -1,15 +1,29 @@
-Adaptor
+grandle
+https://pastebin.com/Dv1YpBWq
+
+Adaptor-kt
 https://pastebin.com/SRm6jTeN
 
-
-asyncio_pyfunctional
+asyncio_pyfunctional-py
 https://pastebin.com/eWNtsECk
 
-bariera+corutine
+bariera+corutine-kt
 https://pastebin.com/sQhUf22U
 
-bridge+decorator
+bridge+decorator-py
 https://pastebin.com/W9XEwPx7
 
-corutina cu canal conflated
+corutina cu canalcoo conflated-kt
 https://pastebin.com/T8LqWdC9
+
+sir de cautare cu inlocuire-py
+https://pastebin.com/1yUP5XJd
+
+command si state coleg student-kt
+https://pastebin.com/jbKbFQ9L
+
+corutine x+y-5-kt
+https://pastebin.com/KLxz9PXs
+
+corutine cu functii pure  x*y=x+y*3-kt
+https://pastebin.com/1ZtQ5yvS 
