@@ -26,4 +26,9 @@ corutine x+y-5-kt
 https://pastebin.com/KLxz9PXs
 
 corutine cu functii pure  x*y=x+y*3-kt
-https://pastebin.com/1ZtQ5yvS 
+https://pastebin.com/1ZtQ5yvS '
+
+functori cu transformare-py
+https://pastebin.com/0cTV3q1v
+
+
