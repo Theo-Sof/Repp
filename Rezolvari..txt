@@ -57,3 +57,27 @@ https://pastebin.com/0cHDuS7d
 
 chain dublu-py
 https://pastebin.com/g71AUYXr
+
+
+chain simplu cu cmd niv de alerta-kt
+https://pastebin.com/yg86j8Et
+
+observator cu numarator si receptor-kt
+https://pastebin.com/yxNsnAGf
+
+boombox cu facade, corutine pt metode-kt
+https://pastebin.com/GgxsLb6W
+
+thread cu conditie, m copii cu n fire-py
+https://pastes.io/bbnXwWQ0
+
+thread cu with, combinare fisiere-py
+https://pastes.io/wU6LKQX9
+
+hashmap cu generator si decorator, functie tip fibo-py
+https://pastes.io/bFLSeAMa
+
+camera de hotel cli-kt
+https://pastes.io/MpOXVFJ0
+
+
