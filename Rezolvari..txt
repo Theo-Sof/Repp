@@ -82,3 +82,12 @@ https://pastes.io/MpOXVFJ0
 
 map cu index invers-py
 https://pastes.io/TSCzEpd8
+
+mediator intre studenti si profesor-py
+https://pastes.io/q8xG5Kje
+
+memento cu functii peste o colectie de date-py
+https://pastes.io/2PO4xXGF
+
+student cu dictionar observer cu memento-kt
+https://pastes.io/kEukXvsL
