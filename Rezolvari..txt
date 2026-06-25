@@ -119,4 +119,8 @@ https://pastes.io/1vPadn4h
 Kotlin + clase active / fire separate + HashMap + Lock / Mutex-kt
 https://pastes.io/tzDf1vD4
 
+Python OOP + asyncio + corutine + UML.
 
+Ideea: modelam o sala de laborator cu obiecte: SalaLaborator, Student, Scaun, Calculator.
+Fiecare operatie este o functie async, adica o corutina.-py
+https://pastes.io/DjIAgn5a
