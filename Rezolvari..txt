@@ -97,3 +97,26 @@ https://pastes.io/CVm2lq9I
 
 modelul strategie cu corutine cu erori warrns-kt
 https://pastes.io/rVgmvhyU
+
+transforamri lambda i/3 i/5-kt
+https://pastes.io/c9tMVxnl
+
+50 numere, secvente de 10, thread-py
+https://pastes.io/LfFv8lUK
+
+procesare mijloc2 cuv, corutine-kt
+https://pastes.io/qIRC2rF8
+
+furnica, corutine mediator-kt
+https://pastes.io/u99JtnfS
+
+processpool-py
+https://pastes.io/E3tOR5ih
+
+studenti integralist blabla-kt
+https://pastes.io/1vPadn4h
+
+Kotlin + clase active / fire separate + HashMap + Lock / Mutex-kt
+https://pastes.io/tzDf1vD4
+
+
