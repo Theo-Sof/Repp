@@ -4,3 +4,12 @@ https://pastebin.com/SRm6jTeN
 
 asyncio_pyfunctional
 https://pastebin.com/eWNtsECk
+
+bariera+corutine
+https://pastebin.com/sQhUf22U
+
+bridge+decorator
+https://pastebin.com/W9XEwPx7
+
+corutina cu canal conflated
+https://pastebin.com/T8LqWdC9
